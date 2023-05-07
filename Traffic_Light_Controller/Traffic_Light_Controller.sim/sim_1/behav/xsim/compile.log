@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/a815d085/Desktop/new Traffic Light Controller/sources/math_real.vhdl" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/a815d085/Desktop/new Traffic Light Controller/sources/clock_divider.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clock_divider'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/a815d085/Desktop/new Traffic Light Controller/sources/math_real-body.vhdl" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/a815d085/Desktop/new Traffic Light Controller/sources/traffic_light_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'traffic_light_controller'

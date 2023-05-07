@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Wed May  3 17:25:43 2023
+# Process ID: 18204
+# Current directory: C:/Users/a815d085/Desktop/new Traffic Light Controller/Traffic_Light_Controller/Traffic_Light_Controller.runs/synth_1
+# Command line: vivado.exe -log traffic_light_controller.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source traffic_light_controller.tcl
+# Log file: C:/Users/a815d085/Desktop/new Traffic Light Controller/Traffic_Light_Controller/Traffic_Light_Controller.runs/synth_1/traffic_light_controller.vds
+# Journal file: C:/Users/a815d085/Desktop/new Traffic Light Controller/Traffic_Light_Controller/Traffic_Light_Controller.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source traffic_light_controller.tcl -notrace
